@@ -4,6 +4,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from datetime import datetime
 
+
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
 
 def get_creds(credentials_path='credentials.json', token_path='token.json'):
