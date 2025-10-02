@@ -73,6 +73,32 @@ python -m src.dashboard
 | Member 5             | Documentation & Testing                       | [GitHub Link](#)                                              |
 
 ---
+---
+
+## Innovation / Novelty
+- Combines multiple system metrics, weather updates, and calendar events in a single **terminal-based dashboard**.  
+- Logs all system stats automatically for monitoring.  
+- Optional Google Calendar integration for productivity tracking.  
+- Clean CLI interface with **rich** formatting for better visualization.
+
+---
+
+## Challenges Faced & Solved
+The main challenge was integrating live system stats with Google Calendar events and ensuring smooth real-time updates in the terminal without breaking the logging functionality. We solved it by using **multithreading** and modular Python scripts to separate data fetching, logging, and display, ensuring the dashboard runs efficiently without lag.
+
+
+---
+
+## Expected vs Actual Output
+
+| Functionality | Expected Output | Actual Output |
+|---------------|----------------|---------------|
+| CPU, Memory, Disk stats | Live stats updating every second | Displayed correctly in terminal |
+| Battery % | Correct percentage & charging status | Displayed correctly |
+| Weather updates | Current weather for specified city | Displayed correctly |
+| Google Calendar | Next event info | Displayed correctly (if credentials valid) |
+| Logging | stats_log.csv updated automatically | Working correctly |
+
 
 ## Future Enhancements
 
