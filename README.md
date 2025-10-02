@@ -96,6 +96,3 @@ git push -u origin main
 
 ---
 
-## Screenshots
-
-(Add screenshots of terminal output here for CPU, Memory, Disk, Battery, and Weather display.)
