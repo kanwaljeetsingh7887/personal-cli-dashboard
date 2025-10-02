@@ -88,7 +88,8 @@ python -m src.dashboard
 - **Evidence of Progress:** Regular commits were made to the repository with descriptive messages. Screenshots of the commit history are included below to demonstrate ongoing development and timely contributions.
 
 ### Example Commit History Screenshot
-![Commit History](screenshots/commit_history.png)
+![Commit History](screenshots/commits.png)
+![Commit History](screenshots/repo.png)
 
 ## Challenges Faced & Solved
 The main challenge was integrating live system stats with Google Calendar events and ensuring smooth real-time updates in the terminal without breaking the logging functionality. We solved it by using **multithreading** and modular Python scripts to separate data fetching, logging, and display, ensuring the dashboard runs efficiently without lag.
