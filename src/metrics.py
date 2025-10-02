@@ -1,6 +1,7 @@
 import psutil
 from datetime import datetime
 
+
 def get_system_stats():
     cpu = psutil.cpu_percent(interval=1)
     mem = psutil.virtual_memory().percent

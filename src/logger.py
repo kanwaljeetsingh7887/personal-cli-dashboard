@@ -1,6 +1,7 @@
 import csv
 import os
 
+
 def log_stats(filepath, stats):
     header = ['timestamp', 'cpu', 'memory', 'disk']
     exists = os.path.exists(filepath)

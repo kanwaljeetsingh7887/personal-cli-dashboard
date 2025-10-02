@@ -14,6 +14,7 @@ from src.weather import get_weather
 from src.logger import log_stats
 from src.gcal import get_creds, get_next_event
 
+#contributor kanwaljeet
 load_dotenv()
 
 OPENWEATHER_KEY = os.getenv('OPENWEATHER_API_KEY')
