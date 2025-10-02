@@ -16,7 +16,7 @@ Python 3, psutil, requests, rich, python-dotenv, Google Calendar API, OpenWeathe
 ## How to Run
 ```bash
 # Clone the repo
-git clone (https://github.com/kanwaljeetsingh7887/personal-cli-dashboard)
+git clone https://github.com/kanwaljeetsingh7887/personal-cli-dashboard
 cd personal-cli-dashboard
 
 # Create virtual environment and install dependencies
