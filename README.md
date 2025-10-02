@@ -89,7 +89,12 @@ python -m src.dashboard
 
 ### Example Commit History Screenshot
 ![Commit History](screenshots/commits.png)
+
+### Repository View
 ![Commit History](screenshots/repo.png)
+
+### Dashboard View
+![Commit History](screenshots/dashboard.png)
 
 ## Challenges Faced & Solved
 The main challenge was integrating live system stats with Google Calendar events and ensuring smooth real-time updates in the terminal without breaking the logging functionality. We solved it by using **multithreading** and modular Python scripts to separate data fetching, logging, and display, ensuring the dashboard runs efficiently without lag.
