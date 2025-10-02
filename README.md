@@ -80,6 +80,15 @@ python -m src.dashboard
 - Clean CLI interface with **rich** formatting for better visualization.
 
 ---
+---
+
+## Timely Submission
+
+- **Submission Timeline:** The project was planned in stages with clear deadlines for each module. We tracked progress using **GitHub issues and milestones**, ensuring each feature was completed on time.  
+- **Evidence of Progress:** Regular commits were made to the repository with descriptive messages. Screenshots of the commit history are included below to demonstrate ongoing development and timely contributions.
+
+### Example Commit History Screenshot
+![Commit History](screenshots/commit_history.png)
 
 ## Challenges Faced & Solved
 The main challenge was integrating live system stats with Google Calendar events and ensuring smooth real-time updates in the terminal without breaking the logging functionality. We solved it by using **multithreading** and modular Python scripts to separate data fetching, logging, and display, ensuring the dashboard runs efficiently without lag.
