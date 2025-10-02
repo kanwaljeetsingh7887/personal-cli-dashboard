@@ -49,6 +49,16 @@ nano .env  # Add OPENWEATHER_API_KEY, CITY, GOOGLE_CREDENTIALS etc.
 # Run the dashboard
 python -m src.dashboard
 ```
+## Screenshots
+
+### System Stats
+![System Stats](screenshots/dashboard_stats.png)
+
+### Weather Updates
+![Weather Updates](screenshots/dashboard_weather.png)
+
+### Google Calendar Event
+![Calendar Event](screenshots/dashboard_calendar.png)
 
 ---
 
