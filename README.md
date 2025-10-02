@@ -1,19 +1,34 @@
 # Personal CLI Dashboard
 
 ## Description
-A terminal-based dashboard that shows live system stats (CPU, Memory, Disk, Battery), weather updates, and optionally Google Calendar events. It also logs system stats automatically for monitoring purposes.
+A terminal-based dashboard that shows live system stats (CPU, Memory, Disk, Battery), weather updates, and optionally Google Calendar events.  
+It also logs system stats automatically for monitoring purposes. This project was built as part of the OST component to demonstrate the use of open source technologies.
+
+---
 
 ## Tools / Technologies Used
-Python 3, psutil, requests, rich, python-dotenv, Google Calendar API, OpenWeatherMap API, Ubuntu/Linux
+- Python 3  
+- psutil  
+- requests  
+- rich  
+- python-dotenv  
+- Google Calendar API  
+- OpenWeatherMap API  
+- Ubuntu/Linux  
+
+---
 
 ## Features
-- Live CPU, Memory, Disk stats
-- Battery % and charging status
-- Weather updates for your city
-- Automatic logging of system stats (`stats_log.csv`)
-- Optional Google Calendar integration
+- 📊 Live CPU, Memory, Disk stats  
+- 🔋 Battery % and charging status  
+- 🌦️ Weather updates for your city  
+- 📝 Automatic logging of system stats (`stats_log.csv`)  
+- 📅 Optional Google Calendar integration  
+
+---
 
 ## How to Run
+
 ```bash
 # Clone the repo
 git clone https://github.com/kanwaljeetsingh7887/personal-cli-dashboard
@@ -30,5 +45,3 @@ nano .env  # Add OPENWEATHER_API_KEY, CITY, GOOGLE_CREDENTIALS etc.
 
 # Run the dashboard
 python -m src.dashboard
-
-
