@@ -17,7 +17,6 @@ It also logs system stats automatically for monitoring purposes. This project wa
 * Google Calendar API
 * OpenWeatherMap API
 * Ubuntu/Linux
-
 ---
 
 ## Features
