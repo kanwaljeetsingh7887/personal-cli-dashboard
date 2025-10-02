@@ -31,3 +31,4 @@ nano .env  # Add OPENWEATHER_API_KEY, CITY, GOOGLE_CREDENTIALS etc.
 # Run the dashboard
 python -m src.dashboard
 
+
