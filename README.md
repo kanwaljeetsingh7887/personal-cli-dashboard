@@ -73,7 +73,6 @@ python -m src.dashboard
 | Member 5             | Documentation & Testing                       | [GitHub Link](#)                                              |
 
 ---
----
 
 ## Innovation / Novelty
 - Combines multiple system metrics, weather updates, and calendar events in a single **terminal-based dashboard**.  
