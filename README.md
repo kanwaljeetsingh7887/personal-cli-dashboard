@@ -134,12 +134,11 @@ git push -u origin main
 ## **Shell / CLI Commands Used**
 
 ```markdown
----
 
 ## Shell / CLI Commands Used
 - File navigation: `cd`, `ls`, `mv`  
 - File creation/editing: `nano`, `touch`  
-- Permissions: `chmod` (if needed)  
-- Cron jobs / .sh scripts (optional for automation)
+- Permissions: `chmod`  
+- Cron jobs / .sh scripts 
 
 
