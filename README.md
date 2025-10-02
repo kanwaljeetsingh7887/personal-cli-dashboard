@@ -1,8 +1,7 @@
 # Personal CLI Dashboard
 
 ## Description
-A terminal-based dashboard that shows live system stats (CPU, Memory, Disk, Battery), weather updates, and optionally Google Calendar events.  
-It also logs system stats automatically for monitoring purposes. 
+A terminal-based dashboard that shows live system stats (CPU, Memory, Disk, Battery), weather updates, and optionally Google Calendar events. It also logs system stats automatically for monitoring purposes. 
 
 ---
 
