@@ -2,7 +2,7 @@
 
 ## Description
 A terminal-based dashboard that shows live system stats (CPU, Memory, Disk, Battery), weather updates, and optionally Google Calendar events.  
-It also logs system stats automatically for monitoring purposes. This project was built as part of the OST component to demonstrate the use of open source technologies.
+It also logs system stats automatically for monitoring purposes. 
 
 ---
 
