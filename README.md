@@ -44,3 +44,20 @@ nano .env  # Add OPENWEATHER_API_KEY, CITY, GOOGLE_CREDENTIALS etc.
 
 # Run the dashboard
 python -m src.dashboard
+
+## Contributors
+
+| Student Name        | Role/Contribution                  | GitHub Profile Link                          |
+|---------------------|------------------------------------|----------------------------------------------|
+| **Kanwaljeet Singh** | Core Python logic, System stats, GitHub setup | [kanwaljeetsingh7887](https://github.com/kanwaljeetsingh7887) |
+| Member 2            | Weather API integration            | [GitHub Link](#) |
+| Member 3            | Google Calendar API integration    | [GitHub Link](#) |
+| Member 4            | Logging & CSV automation           | [GitHub Link](#) |
+| Member 5            | Documentation & Testing            | [GitHub Link](#) |
+
+## Future Enhancements
+- Add network stats (upload/download speed)  
+- Add news updates  
+- Export dashboard to web (Flask/Django)  
+- Dark/light theme support for CLI  
+
