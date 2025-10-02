@@ -1,7 +1,6 @@
 import psutil
 from datetime import datetime
 
-
 def get_system_stats():
     cpu = psutil.cpu_percent(interval=1)
     mem = psutil.virtual_memory().percent
@@ -13,8 +12,8 @@ def get_system_stats():
         batt_percent = battery.percent
         charging = battery.power_plugged
     else:
-        batt_percent = None
-        charging = None
+        batt_percent = "N/A"
+        charging = "N/A"
 
     return {
         'cpu': round(cpu, 1),
@@ -22,6 +21,5 @@ def get_system_stats():
         'disk': round(disk, 1),
         'battery': batt_percent,
         'charging': charging,
-        'timestamp': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        'timestamp': datetime.now().strftime("%Y-%m-%d %I:%M:%S %p")  # 12-hour format with AM/PM
     }
-
