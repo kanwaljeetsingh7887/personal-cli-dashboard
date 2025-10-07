@@ -66,10 +66,9 @@ python -m src.dashboard
 | Student Name         | Role/Contribution                             | GitHub Profile Link                                           |
 | -------------------- | --------------------------------------------- | ------------------------------------------------------------- |
 | **Kanwaljeet Singh** | Core Python logic, System stats, GitHub setup | [kanwaljeetsingh7887](https://github.com/kanwaljeetsingh7887) |
-| **Riddhi Lokhande**  | Weather API integration                       | [RiddhiLokhande](https://github.com/RiddhiLokhande)           |
-| **Srihari Nair**     | Google Calendar API integration               | [Srhari1234](https://github.com/Srhari1234)                  |
-| Member 4             | Logging & CSV automation                      | [GitHub Link](#)                                              |
-| Member 5             | Documentation & Testing                       | [GitHub Link](#)                                              |
+| **Riddhi Lokhande**  | Weather API integration, Logging & CSV automation                      | [RiddhiLokhande](https://github.com/RiddhiLokhande)           |
+| **Srihari Nair**     | Google Calendar API integration, Documentation & Testing               | [Srhari1234](https://github.com/Srhari1234)                  |
+                                  |
 
 ---
 
