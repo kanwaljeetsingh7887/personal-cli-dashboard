@@ -68,7 +68,6 @@ python -m src.dashboard
 | **Kanwaljeet Singh** | Core Python logic, System stats, GitHub setup | [kanwaljeetsingh7887](https://github.com/kanwaljeetsingh7887) |
 | **Riddhi Lokhande**  | Weather API integration, Logging & CSV automation                      | [RiddhiLokhande](https://github.com/RiddhiLokhande)           |
 | **Srihari Nair**     | Google Calendar API integration, Documentation & Testing               | [Srhari1234](https://github.com/Srhari1234)                  |
-                                  |
 
 ---
 
